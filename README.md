@@ -31,8 +31,8 @@ TBD!
 
 *Group 2 [Africa/Europe] - (starting 2020-08-03) - Tuesdays, 19:30 CET (CEST)*
 
-- 2020-08-03 Chapter 2 - Introduction: Alan Kinene/shmuhamadd
-- 2020-08-10 Chapter 3 - Data visualisation: 
+- 2020-08-03 Chapter 2 - Introduction: Alan Kinene
+- 2020-08-10 Chapter 3 - Data visualisation: Kamran KHAN
 - 2020-08-17 Chapter 4 -  Workflow: basics 
 
 <details>
@@ -47,7 +47,7 @@ TBD!
 
 Chapter 2 Introduction 
 
-- PRESENTER NAME: [SLIDES](link-to-slides)
+- [Alan Kinene](https://twitter.com/kinenealan): [Slides](https://www.alankinene.com/r4ds_book_club/r4ds/r4ds-ch1_2.html#1) | [Video](https://youtu.be/M28oO5jmVQU)
 
 Chapter 3 Data visualisation 
 
